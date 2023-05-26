@@ -1,6 +1,6 @@
 ### Hi, My pal! 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
   - [MCSkinn](https://github.com/InkoreStudios/MCSkinn) A modern Minecraft skin editor for Windows
   - [Inkore.UI.WPF.Modern](https://github.com/InkoreStudios/Inkore.UI.WPF.Modern) Modern (Fluent 2) styles for WPF apps
 
