@@ -21,6 +21,4 @@
 
 - 🎮 Let's play Minecraft, my Java Edition and Xbox profile username are both `NotYoojun`.
 
-[![wherewhere's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotYoojun&show_icons=true&count_private=true&locale=en)](https://github.com/wherewhere)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotYoojun&layout=compact&show_icons=true&count_private=true&locale=en)](https://github.com/wherewhere)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotYoojun&show_icons=true&count_private=true&locale=en)](https://github.com/NotYoojun)
