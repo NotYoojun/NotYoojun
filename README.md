@@ -20,5 +20,3 @@
 - ⚡ Welcome to my studio, see more at [@InkoreStudios](https://github.com/InkoreStudios)
 
 - 🎮 Let's play Minecraft, my Java Edition and Xbox profile username are both `NotYoojun`.
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NotYoojun&show_icons=true&count_private=true&locale=en)](https://github.com/NotYoojun)
