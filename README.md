@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on
   - [MCSkinn](https://github.com/InkoreStudios/MCSkinn) A modern Minecraft skin editor for Windows
-  - [Inkore.UI.WPF.Modern](https://github.com/InkoreStudios/Inkore.UI.WPF.Modern) Modern (Fluent 2) styles for WPF apps
+  - [Inkways](https://inkore.net/en-us/products/inkways/) A powerful ink center with secret intelligent optimizations
+  - [iNKORE.UI.WPF.Modern](https://github.com/InkoreStudios/Inkore.UI.WPF.Modern) Modern (Fluent 2) styles for WPF apps
 
 
 - 🌱 I’m currently learning
