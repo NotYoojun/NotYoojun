@@ -1,9 +1,9 @@
 ### Hi, My pal! 👋
 
 - 🔭 I’m currently working on
-  - [MCSkinn](https://github.com/InkoreStudios/MCSkinn) A modern Minecraft skin editor for Windows
+  - [MCSkinn](https://github.com/iNKORE-Public/MCSkinn) A modern Minecraft skin editor for Windows
   - [Inkways](https://inkore.net/en-us/products/inkways/) A powerful ink center with secret intelligent optimizations
-  - [iNKORE.UI.WPF.Modern](https://github.com/InkoreStudios/Inkore.UI.WPF.Modern) Modern (Fluent 2) styles for WPF apps
+  - [iNKORE.UI.WPF.Modern](https://github.com/iNKORE-Public/Inkore.UI.WPF.Modern) Modern (Fluent 2) styles for WPF apps
 
 
 - 🌱 I’m currently learning
@@ -18,6 +18,6 @@
   - [Telegram](http://t.me/NotYoojun) t.me/NotYoojun
 
   
-- ⚡ Welcome to my studio, see more at [@InkoreStudios](https://github.com/InkoreStudios)
+- ⚡ Welcome to my studio, see more at [@iNKORE-Public](https://github.com/iNKORE-Public)
 
 - 🎮 Let's play Minecraft, my Java Edition and Xbox profile username are both `NotYoojun`.
