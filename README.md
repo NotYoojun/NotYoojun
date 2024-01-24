@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on
   - [MCSkinn](https://github.com/iNKORE-Public/MCSkinn) A modern Minecraft skin editor for Windows
   - [Inkways](https://inkore.net/en-us/products/inkways/) A powerful ink center with secret intelligent optimizations
-  - [iNKORE.UI.WPF.Modern](https://github.com/iNKORE-Public/Inkore.UI.WPF.Modern) Modern (Fluent 2) styles for WPF apps
+  - [iNKORE.UI.WPF.Modern](https://github.com/iNKORE-Public/UI.WPF.Modern) Modern (Fluent 2) styles for WPF apps
 
 
 - 🌱 I’m currently learning
