@@ -7,8 +7,10 @@
 
 
 - 🌱 I’m currently learning
-  - C# WPF MAUI
+  - C# .NET WPF
+  - React Typescript
   - Blender
+  - Photoshop Illustrator
 
 - 📫 How to reach me
   - [E-Mail](mailto:notyoojun@outlook.com) notyoojun🌀outlook.com
