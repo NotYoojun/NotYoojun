@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning
   - C# .NET WPF
-  - React Typescript
+  - React.js Typescript
   - Blender
   - Photoshop Illustrator
 
@@ -16,10 +16,10 @@
   - [E-Mail](mailto:notyoojun@outlook.com) notyoojun🌀outlook.com
   - [LinkTree](https://www.linktr.ee/NotYoojun) linktr.ee/NotYoojun
   - [Twitter](https://www.twitter.com/NotYoojun) twitter.com/NotYoojun
-  - [Facebook](https://www.facebook.com/NotYoojun) facebook.com/NotYoojun
+  - [Faceblook](https://www.facebook.com/NotYoojun) facebook.com/NotYoojun
   - [Telegram](http://t.me/NotYoojun) t.me/NotYoojun
 
   
-- ⚡ Welcome to my studio, see more at [@iNKORE-Public](https://github.com/iNKORE-Public)
+- ⚡ Welcome to my studio, see more at [@iNKORE-NET](https:/github.com/iNKORE-NET)
 
 - 🎮 Let's play Minecraft, my Java Edition and Xbox profile username are both `NotYoojun`.
