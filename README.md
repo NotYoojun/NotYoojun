@@ -43,11 +43,14 @@
 
 <div style="margin-top: 24px; margin-left: 24px; margin-right: 24px;">
 
-  <img align="center" width="100%" style="margin-bottom: 16px" src="https://skillicons.dev/icons?i=react,materialui,nextjs,htmx,nodejs,pnpm,supabase,ts" />
+  <img align="center" width="100%" src="https://skillicons.dev/icons?i=react,materialui,nextjs,htmx,nodejs,pnpm,supabase,ts" />
  
- <br>
+  <br>
+
   <img align="center" width="100%" src="https://skillicons.dev/icons?i=cs,dotnet,powershell,visualstudio,vscode,git,github,mysql" />
- <br>
+
+  <br>
+
   <img align="center" width="100%" src="https://skillicons.dev/icons?i=ae,au,blender,figma,ai,ps,pr,ubuntu" />
 
 </div>
