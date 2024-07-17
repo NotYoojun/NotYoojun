@@ -62,7 +62,7 @@
 <img href="#" src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/rainbow-separator.gif?raw=true" height="20" width="100%" style="margin-top: 24px; margin-bottom: 0px;"></img>
 
 <p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+<img src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/trophy-beker.gif?raw=true"  width="100px" height="100px"></p>
   
 <!-- <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=NotYoojun&theme=matrix&no-bg=true&no-frame=true&row=1&column=3&title=MultiLanguage,Commits,PullRequest,Reviews">
