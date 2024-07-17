@@ -45,8 +45,9 @@
 
   <img align="center" width="100%" style="margin-bottom: 16px" src="https://skillicons.dev/icons?i=react,materialui,nextjs,htmx,nodejs,pnpm,supabase,ts" />
  
+ <br>
   <img align="center" width="100%" src="https://skillicons.dev/icons?i=cs,dotnet,powershell,visualstudio,vscode,git,github,mysql" />
-
+ <br>
   <img align="center" width="100%" src="https://skillicons.dev/icons?i=ae,au,blender,figma,ai,ps,pr,ubuntu" />
 
 </div>
