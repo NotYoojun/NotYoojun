@@ -59,7 +59,7 @@
 
 <br>
 
-<img src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/rainbow-separator.gif?raw=true" height="20" width="100%" style="margin-top: 24px; margin-bottom: 0px;"></img>
+<img href="#" src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/rainbow-separator.gif?raw=true" height="20" width="100%" style="margin-top: 24px; margin-bottom: 0px;"></img>
 
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
