@@ -40,20 +40,15 @@
 
 - 🧧 [Click here](https://linktr.ee/NotYoojun) to connect with me somewhere right now.
 
+<img align="center" width="100%" src="https://skillicons.dev/icons?i=react,materialui,nextjs,htmx,nodejs,pnpm,supabase,ts" />
 
-<div style="margin-top: 24px; margin-left: 24px; margin-right: 24px;">
+<br>
 
-  <img align="center" width="100%" src="https://skillicons.dev/icons?i=react,materialui,nextjs,htmx,nodejs,pnpm,supabase,ts" />
- 
-  <br>
+<img align="center" width="100%" src="https://skillicons.dev/icons?i=cs,dotnet,powershell,visualstudio,vscode,git,github,mysql" />
 
-  <img align="center" width="100%" src="https://skillicons.dev/icons?i=cs,dotnet,powershell,visualstudio,vscode,git,github,mysql" />
+<br>
 
-  <br>
-
-  <img align="center" width="100%" src="https://skillicons.dev/icons?i=ae,au,blender,figma,ai,ps,pr,ubuntu" />
-
-</div>
+<img align="center" width="100%" src="https://skillicons.dev/icons?i=ae,au,blender,figma,ai,ps,pr,ubuntu" />
 
 <img src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/rainbow-separator.gif?raw=true" height="20" width="100%" style="margin-top: 24px; margin-bottom: 0px;"></img>
 
