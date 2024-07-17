@@ -19,15 +19,14 @@
 
 <br>
 
-<div align="center">
-</div>
+<img src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/rainbow-separator.gif?raw=true" height="20" width="100%" style="margin-top: 24px; margin-bottom: 0px;"></img>
 
-<img align="right" alt="Coding" width="330" src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/coding-dark-1.gif?raw=true" style="border-radius: 12px; border: 1px solid #88888840; margin-left: 24px;">
+<img align="right" alt="Coding" width="330" src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/coding-dark-1.gif?raw=true" style="border-radius: 12px; border: 1px solid #88888840; margin-left: 24px; margin-right: 24px;">
 
 
 - 🔭 I'm working on and owning [iNKORE Studios](https://inkore.net/)
 
-- 🌱 Currently learning React.js, Blender and boardskating
+- 🌱 Currently learning **React.js**, **Blender** and  **boardskating**
 
 - 👨‍💻 Projects available here and on the catalog in my studio.
 
@@ -42,7 +41,7 @@
 - 🧧 [Click here](https://linktr.ee/NotYoojun) to connect with me somewhere right now.
 
 
-<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 24px;">
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 24px; margin-left: 24px; margin-right: 24px;">
 
   <img align="center" src="https://skillicons.dev/icons?i=react,materialui,nextjs,htmx,nodejs,pnpm,supabase,ts" />
  
@@ -52,14 +51,14 @@
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></img>
+<img src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/rainbow-separator.gif?raw=true" height="20" width="100%" style="margin-top: 24px; margin-bottom: 0px;"></img>
 
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=NotYoojun&theme=matrix&no-bg=true&no-frame=true&row=1&column=3&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
+ </div> -->
 
 
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
+<p align="center"> Created with ❤️‍🩹 by <a href="http://linktr.ee/NotYoojun">Yoojun Zhou</a></p>
