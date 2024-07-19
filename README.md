@@ -21,12 +21,9 @@
 
 <img src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/rainbow-separator.gif?raw=true" height="20" width="100%" style="margin-top: 24px; margin-bottom: 0px;"></img>
 
-<div align="right" width="375">
+<img align="right" alt="Coding" width="375" src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/coding-dark-1.gif?raw=true" style="border-radius: 12px; border: 1px solid #88888840; margin-left: 24px; margin-right: 24px;">
 
-  <img alt="Coding" width="375" src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/coding-dark-1.gif?raw=true" style="border-radius: 12px; border: 1px solid #88888840; margin-left: 24px; margin-right: 24px;">
-   
- <br>
-</div>
+<br>
 
 - 🔭 I'm working on and owning [iNKORE Studios](https://inkore.net/)
 
