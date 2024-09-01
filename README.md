@@ -45,7 +45,7 @@
 
 
 
-<img align="center" width="100%" src="https://skillicons.dev/icons?i=react,materialui,nextjs,htmx,nodejs,pnpm,supabase,ts" />
+<img align="center" width="100%" src="https://skillicons.dev/icons?i=react,materialui,nextjs,electron,nodejs,pnpm,supabase,ts" />
 
 <span></span>
 
