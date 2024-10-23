@@ -32,7 +32,7 @@
 
 - 💬 Ask me about **WPF, React.js and TypeScript**.
 
-- 📫 How to reach me [notyoojun@outlook.com](mailto:notyoojun@outlook.com).
+- 📫 How to reach me? Mail to: [notyoojun@outlook.com](mailto:notyoojun@outlook.com).
 
 - 📄 Know about my experiences, wait, you can't.
 
