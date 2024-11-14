@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Yoojun Zhou</h1>
 <h3 align="center">A hexagonal warrior from nowhere</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; I love owning, wearing, exploring cool stuff!</p>
+<p align="center">I'm fascinated by how technology 🌐 has brought changes to our lives that could never have been predicted; I love owning, wearing and exploring cool stuff!</p>
 <p align="center"> 
 
 <h3 align="center">A not-so-cool boy from nowhere :-)</h3>
