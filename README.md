@@ -48,12 +48,11 @@
 
 <span></span>
 
-
 <img align="center" width="100%" src="https://skillicons.dev/icons?i=cs,dotnet,powershell,visualstudio,vscode,git,github,mysql" />
 
 <span></span>
 
-<img align="center" width="100%" src="https://skillicons.dev/icons?i=ae,au,blender,figma,ai,ps,pr,ubuntu" />
+<img align="center" width="100%" src="https://skillicons.dev/icons?i=ae,au,figma,blender,ubuntu,ai,ps,pr" />
 
 <span></span>
 
