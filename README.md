@@ -22,7 +22,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/coding-dark-1.gif?raw=true" style="border-radius: 12px; border: 1px solid #88888840; margin-left: 24px; margin-right: 24px;">
 
-<br>
 
 🔭 I'm the owner and founder of [iNKORE Studios](https://inkore.net/).
 
@@ -41,9 +40,6 @@
 🧧 [Click here](https://linktr.ee/NotYoojun) to connect with me somewhere right now.
 
 <br>
-
-
-
 
 <img align="center" width="100%" src="https://skillicons.dev/icons?i=react,materialui,nextjs,electron,nodejs,pnpm,supabase,ts" />
 
