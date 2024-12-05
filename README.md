@@ -25,7 +25,7 @@
 
 - 🔭 I'm the owner and founder of [iNKORE Studios](https://inkore.net/).
 
-- 🌱 Currently learning **React.js**, **Blender** and  **boardskating**.
+- 🌱 Currently learning **React.js**, **Blender** and  **stakeboarding**.
 
 - 👨‍💻 Projects available here and on the catalog in my studio.
 
