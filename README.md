@@ -23,21 +23,21 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/coding-freak.gif?raw=true" style="border-radius: 12px; border: 1px solid #88888840; margin-left: 24px; margin-right: 24px;">
 
 
-🔭 I'm the owner and founder of [iNKORE Studios](https://inkore.net/).
+- 🔭 I'm the owner and founder of [iNKORE Studios](https://inkore.net/).
 
-🌱 Currently learning **React.js**, **Blender** and  **boardskating**.
+- 🌱 Currently learning **React.js**, **Blender** and  **boardskating**.
 
-👨‍💻 Projects available here and on the catalog in my studio.
+- 👨‍💻 Projects available here and on the catalog in my studio.
 
-💬 Ask me about **WPF, React.js and TypeScript**.
+- 💬 Ask me about **WPF, React.js and TypeScript**.
 
-📫 How to reach me? Mail to: [notyoojun@outlook.com](mailto:notyoojun@outlook.com).
+- 📫 How to reach me? Mail to: [notyoojun@outlook.com](mailto:notyoojun@outlook.com).
 
-📄 Know about my experiences, wait, you can't.
+- 📄 Know about my experiences, wait, you can't.
 
-⚡ Fun fact **I think I'm NOT funny** LOLOLOLOLOLOL
+- ⚡ Fun fact **I don't think I think I'm NOT funny** LOLOLOL
 
-🧧 [Click here](https://linktr.ee/NotYoojun) to connect with me somewhere right now.
+- 🧧 [Click here](https://linktr.ee/NotYoojun) to connect with me somewhere right now.
 
 <br>
 
