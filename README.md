@@ -20,7 +20,7 @@
 
 <img src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/rainbow-separator.gif?raw=true" height="20" width="100%" style="margin-top: 24px; margin-bottom: 0px;"></img>
 
-<img align="right" alt="Coding" height="300px" src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/coding-freak.gif?raw=true" style="border-radius: 12px; border: 1px solid #88888840; margin-left: 24px; margin-right: 24px;">
+<img align="right" alt="Coding" height="280px" src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/coding-freak.gif?raw=true" style="border-radius: 12px; border: 1px solid #88888840; margin-left: 24px; margin-right: 24px;">
 
 
 - 🔭 I'm the owner and founder of [iNKORE Studios](https://inkore.net/).
