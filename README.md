@@ -1,7 +1,7 @@
 
 <img align="left" src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/falling-flowers.gif?raw=true" width="21%" style="display:inline;"><img align="right" src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/falling-flowers.gif?raw=true" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Yoojun Zhou</h1>
+<h1 align="center">Hi 👋🏻, I'm Yoojun Zhou</h1>
 <h3 align="center">A hexagonal warrior from nowhere</h3>
 <p align="center">I'm fascinated by how technology has brought changes to our lives that never have been predicted. I love owning, wearing and exploring cool stuff!</p>
 <p align="center"> 
