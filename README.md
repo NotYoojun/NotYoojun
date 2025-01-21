@@ -25,11 +25,11 @@
 
 - 🔭 I'm the owner and founder of [iNKORE Studios](https://inkore.net/).
 
-- 🌱 Currently learning **React.js**, **Blender** and  **stakeboarding**.
+- 🌱 Currently learning **C++**, **Blender** and  **stakeboarding**.
 
 - 👨‍💻 Projects available here and on the catalog in my studio.
 
-- 💬 Ask me about **WPF, React.js and TypeScript**.
+- 💬 Ask me about **React.js TypeScript, and WPF**.
 
 - 📫 How to reach me? Mail to: [notyoojun@outlook.com](mailto:notyoojun@outlook.com).
 
