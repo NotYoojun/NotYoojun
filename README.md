@@ -1,9 +1,3 @@
-<h1 align="center">
-  BUSY & UNAVAILABLE UNTIL 07/01/2025
-</h1>
-
----
-
 
 <img align="left" src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/falling-flowers.gif?raw=true" width="21%" style="display:inline;"><img align="right" src="https://github.com/NotYoojun/NotYoojun/blob/main/assets/images/falling-flowers.gif?raw=true" width="21%" style="display:inline;">
 
