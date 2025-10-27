@@ -45,7 +45,7 @@
 
 <span></span>
 
-<img align="center" width="100%" src="https://skillicons.dev/icons?i=cs,dotnet,powershell,visualstudio,vscode,git,github,mysql" />
+<img align="center" width="100%" src="https://skillicons.dev/icons?i=cs,dotnet,powershell,visualstudio,vscode,git,github,postgresql" />
 
 <span></span>
 
